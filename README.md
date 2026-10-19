@@ -1,11 +1,11 @@
+# d2l-zh
+
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-fork-8250df?style=flat-square) ![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E6%95%99%E6%9D%90-6e7781?style=flat-square) ![技术栈](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-Python_%C2%B7_Jupyter-6e7781?style=flat-square) ![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-Apache--2.0-2ea043?style=flat-square)
+
 > **这是 fork** · 上游：[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
 > 本地增量：仅加入仓库身份声明，书稿与代码无改动。
 > 同步状态：与上游一致（上游自 2023-08 后未更新）。
 > 用途：阅读参考，不在此仓库提交改动。
-
----
-
-# 动手学深度学习（Dive into Deep Learning，D2L.ai）
 
 [第二版：zh.D2L.ai](https://zh.d2l.ai)  | [第一版：zh-v1.D2L.ai](https://zh-v1.d2l.ai/) |  安装和使用书中源代码： [第二版](https://zh.d2l.ai/chapter_installation/index.html) [第一版](https://zh-v1.d2l.ai/chapter_prerequisite/install.html)
 
